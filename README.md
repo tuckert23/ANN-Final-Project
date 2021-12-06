@@ -37,3 +37,5 @@ The CryptoPunk GAN is a notebook containing all of the code required to run a GA
 - tensorflow_docs.vis.embed
 - glob
 - imageio
+- tensorflow_addons
+- tensorflow_datasets
