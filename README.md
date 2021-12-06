@@ -22,7 +22,7 @@ Can a computer generate a valuable NFT based on the designs of popular ones?
 The CryptoPunk GAN is a notebook containing all of the code required to run a GAN on the CryptoPunk dataset. This dataset can either be pulled using `download_data.py`, or throught the included `cryptopunks.zip` folder, which contains all of the needed CryptoPunk assest. When running this notebook, be sure the `num_epochs` parameter is closer to 50, which equates to 30-45 minutes of runtime on modern laptops. At the end, you will be left with a GIF of the model's progression from noise to CryptoPunk-style images. 
 
 - __ANNCycleGAN.ipynb__  
-
+This notebook contains all the code required to run a CycleGAN for style-transfer so long as you have the CryptoPunks dataset, which can either be pulled using `download_data.py`, or throught the included `cryptopunks.zip` folder, which contains all of the needed CryptoPunk assests. This code does take a long time to run, so be sure that the `epochs` parameter in the training code block is less than 10. The CycleGAN uses the CryptoPunk Dataset as a style guide, while learning to morph the faces from the facial dataset into that style. While the results aren't perfect, see if you can notice any odd similarities between the people and the generated CryptoPunks (i.e. hair color, facial shape, facial features, etc.). 
 
 
 ## Package requirements
