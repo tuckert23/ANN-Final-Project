@@ -1,4 +1,4 @@
-# Artificial Neural Networks and Deep Learning
+# [Home](https://github.com/tuckert23/tuckert23.github.io)
 ## Final Project  
 Artificial Neural Networks and Deep Learning  
 DIS Copenhagen  
@@ -12,8 +12,6 @@ Dean Wahle, Ethan Sidelsky, and Taylor Tucker
 Can a computer generate a valuable NFT based on the designs of popular ones?
 
 ## [Link to Medium Blog Post](https://medium.com/@tuckert23/ai-crypto-art-generating-nft-style-images-with-neural-networks-68b0930ec1bd)
-
-## [Link to GitHub Repository](https://github.com/tuckert23/ANN-Final-Project)
 
 ## Description of Notebooks
 - __download_data.py__  
