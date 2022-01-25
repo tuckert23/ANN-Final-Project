@@ -1,4 +1,4 @@
-# [Home](https://github.com/tuckert23/tuckert23.github.io)
+# [Home](https://tuckert23.github.io)
 ## Final Project  
 Artificial Neural Networks and Deep Learning  
 DIS Copenhagen  
