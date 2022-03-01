@@ -11,7 +11,7 @@ Dean Wahle, Ethan Sidelsky, and Taylor Tucker
 ## Research Question:
 Can a computer generate a valuable NFT based on the designs of popular ones?
 
-## Link to Medium Blog Post
+## [Link to Medium Blog Post](https://medium.com/@tuckert23/ai-crypto-art-generating-nft-style-images-with-neural-networks-68b0930ec1bd)
 
 
 ## Description of Notebooks
